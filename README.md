@@ -16,11 +16,13 @@ Multi-step approach in R-CNN:
 
 **Main steps process to implementing an R-CNN object detector:**
 1. Build an object detection dataset using Selective Search : data_preprocessing  
-2. Apply rcnn algorithm  
+2. Apply rcnn algorithm :
+ * Basic RCNN based on region proposal
+ * RCNN using bounding box regression
 
 
 
-**RCNN implementation in detail:**  
+**Basic RCNN implementation in detail:**  
 
 ![image](https://user-images.githubusercontent.com/67818318/177929852-83bb395a-e810-42b1-8c92-72fdbdb88ed6.png)
 
