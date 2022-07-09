@@ -18,7 +18,7 @@ Multi-step approach in R-CNN:
 1. Build an object detection dataset using Selective Search : data_preprocessing  
 2. Apply rcnn algorithm :
  * Basic RCNN based on region proposal
- * RCNN using bounding box regression
+ * RCNN using bounding box 
 
 
 
