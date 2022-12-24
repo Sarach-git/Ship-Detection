@@ -1,5 +1,5 @@
-# Artificial-Neural-Network
-**Object Detection using R-CNN**  
+# Object Detection using R-CNN
+
 The main objective is to detect the ships in satellite images. Dataset is made up of 4000 80x80 RGB photos labeled with "ship" or "no-ship" classifications and saved as a 19200-item list. These images were extracted from ‘Planet satellite imagery collected over the San Francisco Bay and San Pedro Bay areas of California’.  
 
 Dataset : [Ships in Satellite Imagery](https://www.kaggle.com/datasets/rhammell/ships-in-satellite-imagery)
